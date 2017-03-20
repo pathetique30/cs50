@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490038684 source:/Users/Charlie/Documents/Programs/CS50/pset1/hello/main.c
+	<stdio.h>
+	<stdlib.h>
+
