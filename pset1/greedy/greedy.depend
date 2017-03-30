@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490880659 source:/Users/Charlie/Documents/Programs/CS50/pset1/greedy/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
